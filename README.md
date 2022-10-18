@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Lucas Freitasm a.k.a Lucão 👋🏾👨🏾‍💻
+
+#### About
+🚀 I'm a Web Developer and I'm studying web development at [Trybe](https://www.betrybe.com/) and [Rocketseat](https://rocketseat.com.br/).
+
+#### Current stack
+- ⚡️ Main language: `Javascript`
+- 📡 Backend: `NodeJS`
+- 🎨 Frontend: `ReactJS`, `HTML5`, `CSS3`, `Javascript`
+- 💡 Layout Design: `Figma`
+- 📦 Version Code Control: `Git & GitHub`
+- 🛠 Tools: `VSCode`, `Markdown`
+
+#### Contacts
+
+- ✉️ Email: devlucao@gmail.com
+- 👤 LinkedIn: https://www.linkedin.com/in/lucasr-freitas/ 
 
 <!--
 **devlucao/devlucao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
