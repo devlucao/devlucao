@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas Freitasm a.k.a Lucão 👋🏾👨🏾‍💻
+### Hi there, I'm Lucas Freitas, a.k.a Lucão 👋🏾👨🏾‍💻
 
 #### About
 🚀 I'm a Web Developer and I'm studying web development at [Trybe](https://www.betrybe.com/) and [Rocketseat](https://rocketseat.com.br/).
