@@ -1,8 +1,8 @@
 ### Hi there, I'm Lucas Freitas, a.k.a Lucão 👋🏾👨🏾‍💻
 
 #### About
-🚀 I'm a Web Developer and I'm studying web development at [Trybe](https://www.betrybe.com/) and [Rocketseat](https://rocketseat.com.br/).
-
+🚀 I'm a Web Developer and I'm studying web development at [CubosAcademy](https://www.cubos.academy/) and [Rocketseat](https://rocketseat.com.br/).
+- Web-Developer | Fullstack
 #### Current stack
 - ⚡️ Main language: `Javascript`
 - 📡 Backend: `NodeJS`
